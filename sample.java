@@ -5,6 +5,6 @@ class GFG {
 		int i=0;
 		int j=i;
 		j= i++ +j;
-		System.out.println(i+ "-" +j);
+		System.out.println(i+ "#" +j);
 	}
 }

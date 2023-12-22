@@ -1,7 +1,7 @@
 
 import java.io.*;
 
-class Arthy {
+class VariablesOverflowAddByte {
 	public static void main (String[] args) 
 	{
 	    //overflow

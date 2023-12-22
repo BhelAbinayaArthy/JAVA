@@ -1,6 +1,6 @@
 import java.io.*;
 
-class Arthy {
+class TypecastingFloatToInt {
 	public static void main (String[] args) 
 	{
 		float f=10;
